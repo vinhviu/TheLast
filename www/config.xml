@@ -19,5 +19,5 @@
 <preference name="webviewbounce" value="true" />
 
 <icon src="gmail_red.png" />
-<splash src="lv.png" width="167" height="57"/>
+<gap:splash src="lv.png" width="320" height="480" />
 </widget>
